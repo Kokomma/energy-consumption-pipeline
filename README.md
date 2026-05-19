@@ -107,7 +107,7 @@ project1-energy-pipeline/
 
 ### Step 1 — Clone & Install
 ```bash
-git clone https://github.com/YOUR_USERNAME/energy-consumption-pipeline
+git clone https://github.com/Kokomma/energy-consumption-pipeline
 cd energy-consumption-pipeline
 pip install -r requirements.txt
 ```
